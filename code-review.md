@@ -4,7 +4,7 @@
 This video is a code review discussing the old artifacts, what they do, analyzes them, and expressing planned enhancements for each of them.
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=6parMNv1eq8"
+src="https://www.youtube.com/embed/6parMNv1eq8"
 title="Code Review Video"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
