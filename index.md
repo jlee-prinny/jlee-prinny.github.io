@@ -1,6 +1,12 @@
 # Professional Self-Assessment
 This professional self-assessment summarizes my development throughout the Computer Science program at Southern New Hampshire University and introduces the artifacts included in this ePortfolio.
 
+## ePortfolio Navigation
+- [Code Review](code-review)
+- [Software Design and Engineering](software-design)
+- [Data Structures and Algorithms](algorithms)
+- [Databases](databases)
+
 ## Program Overview and Professional Focus
 I completed the Bachelor of Science in Computer Science program at Southern New Hampshire University focusing on numerous CS concepts and aspects. Throughout the program, I worked with a range of software development concepts including but not limited to object-oriented design, data structures and algorithms, database integration, software testing, and software security. The coursework emphasized creating maintainable systems, evaluating trade-offs in design decisions, and aligning technical solutions with real-world requirements. This ePortfolio presents selected artifacts that demonstrate my development across these areas and reflects the cumulative skills I gained throughout the program.
 
