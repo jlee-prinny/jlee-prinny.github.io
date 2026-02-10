@@ -1,6 +1,7 @@
 **Navigation:** | [Home](./) | [Code Review](code-review) | [Software Design](software-design) | [Algorithms](algorithms) | [Databases](databases)
 
 # Code Review
+This video is a code review discussing the old artifacts, what they do, analyzes them, and expressing planned enhancements for each of them.
 
 <iframe width="560" height="315"
 src="https://www.youtube-nocookie.com/watch?v=6parMNv1eq8"
