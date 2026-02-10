@@ -15,5 +15,5 @@ In the process of enhancing this artifact, I primarily learned through re-engagi
 In addition, this enhancement required me to learn how to use basic file input and output in Java to preserve application data between program runs. While the file persistence implemented is simple, it reinforced how program state can be saved and restored using standard libraries, which was not a concern in the original test-focused version of the artifact.
 
 ## Code Files
-= Original code: [View folder](artifacts/contact-service/ContactService_old/)
+- Original code: [View folder](artifacts/contact-service/ContactService_old/)
 - Enhanced code: [View folder](artifacts/contact-service/ContactService_enhanced_V1_SoftwareDev/)
