@@ -3,7 +3,7 @@
 # Code Review
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=6parMNv1eq8"
+src="https://www.youtube-nocookie.com/watch?v=6parMNv1eq8"
 title="Code Review Video"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
