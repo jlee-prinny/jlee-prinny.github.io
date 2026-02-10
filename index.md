@@ -1,4 +1,4 @@
-**Navigation:** [Home](index) | [Code Review](code-review) | [Software Design](software-design) | [Algorithms](algorithms) | [Databases](databases)
+**Navigation:** | [Home](index) | [Code Review](code-review) | [Software Design](software-design) | [Algorithms](algorithms) | [Databases](databases)
 
 # Professional Self-Assessment
 This professional self-assessment summarizes my development throughout the Computer Science program at Southern New Hampshire University and introduces the artifacts included in this ePortfolio.
