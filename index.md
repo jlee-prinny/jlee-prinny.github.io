@@ -1,5 +1,8 @@
 **Navigation:** | [Home](./) | [Code Review](code-review.md) | [Software Design](software-design) | [Algorithms](algorithms) | [Databases](databases)
 
+# Jacob Lee
+Bachelor of Science in Computer Science - Southern New Hampshire University
+
 # Professional Self-Assessment
 This professional self-assessment summarizes my development throughout the Computer Science program at Southern New Hampshire University and introduces the artifacts included in this ePortfolio.
 
